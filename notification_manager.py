@@ -4,8 +4,6 @@ account_sid = 'AC9e5950b7340450514dd89e85552031a6'
 auth_token = 'faa3399bd8e9d0e262d35848633a57b9'
 SHEETY_PRICES_ENDPOINT = 'https://api.sheety.co/9d7dfe2286aa4bc0831907c596b0202d/myFightDeals/prices'
 
-TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = 'FhDyA3MaUFy4uSpRGlEohmCS1_AB-RaA'
 
 class NotificationManager:
 
